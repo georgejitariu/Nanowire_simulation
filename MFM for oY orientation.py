@@ -1,3 +1,5 @@
+#MFM only for samples alligned on OY Axes(Vertically)
+
 import discretisedfield as df
 import mag2exp
 import k3d
